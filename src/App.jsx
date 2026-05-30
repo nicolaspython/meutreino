@@ -44,7 +44,7 @@ const workouts = {
       { muscle: "Pernas", name: "Cadeira Extensora", series: 3, reps: "12", rest: 60 },
       { muscle: "Pernas", name: "Cadeira ou Mesa Flexora", series: 4, reps: "10–12", rest: 60 },
       { muscle: "Pernas", name: "Stiff com Halteres ou Barra", series: 3, reps: "10", rest: 60 },
-      { muscle: "Panturrilha", name: "Gêmeos Sentado (Máquina)", series: 4, reps: "15", rest: 60 },
+      { muscle: "Panturrilha", name: "Panturrilha Sentado (Máquina)", series: 4, reps: "15", rest: 60 },
       { muscle: "Cardio", name: "Esteira / Caminhada", series: null, reps: "30 min", rest: null },
     ],
   },
