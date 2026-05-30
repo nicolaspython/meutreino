@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">meu-treino</string>
+    <string name="title_activity_main">meu-treino</string>
+    <string name="package_name">com.nicolastreino.app</string>
+    <string name="custom_url_scheme">com.nicolastreino.app</string>
+</resources>
